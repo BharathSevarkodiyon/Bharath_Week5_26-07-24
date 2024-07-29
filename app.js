@@ -1,4 +1,4 @@
-const calc = require("./calc")   // local module
+const calc = require("./calc")   // importing local modules
 
 result = calc.add(4,5);
 
