@@ -1,4 +1,4 @@
-const calc = require("./calc")
+const calc = require("./calc")   // local module
 
 result = calc.add(4,5);
 
