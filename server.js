@@ -1,6 +1,6 @@
 // Create a basic HTTP server in Node.js that returns "Hello, World!"
 
-let http = require('http')  // it a inbuild module
+let http = require('http')  // importing inbuild module
 let port = 5000;
 
 let server = http.createServer((req, res)=>{
